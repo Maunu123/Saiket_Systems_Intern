@@ -1,79 +1,78 @@
-# YOUR NAME
+# Rimjhim Parhi
 
-**Full-Stack Developer Intern Candidate**  
-City, Country | +91 XXXXX XXXXX | you@example.com  
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username) | [Portfolio](https://your-portfolio-link.com)
+**Python and Full-Stack Developer**<br>
+Bangalore, India | +91 73259 86570 | [parhirimjhim26@gmail.com](mailto:parhirimjhim26@gmail.com)<br>
+[LinkedIn](https://linkedin.com/in/rimjhimparhi) | [GitHub](https://github.com/Maunu123) | [Internship Portfolio](https://github.com/Maunu123/Saiket_Systems_Intern)
 
 ## Professional Summary
 
-Entry-level full-stack developer with hands-on experience building responsive web interfaces, React applications, REST APIs, PostgreSQL integrations, and CRUD-based full-stack systems. Comfortable turning requirements into clean, accessible user experiences and documented backend services using HTML, CSS, JavaScript, React, Node.js, Express, and SQL.
+MCA graduate with hands-on experience building full-stack applications using Python, Django, React, Node.js, and REST APIs. Developed a food-ordering platform with authentication, payments, and AI-powered support, along with a weather and outing planner using retrieval-augmented generation. Completed practical internship work across responsive frontend development, React, Express APIs, PostgreSQL, SQL, and Git. Seeking an entry-level software developer role.
 
 ## Technical Skills
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, Responsive Design, Form Validation
-- **Backend:** Node.js, Express.js, REST API Design, CRUD Operations, JSON, CORS
-- **Database:** PostgreSQL, SQL, Parameterized Queries, Schema Design
-- **Tools:** Git, GitHub, npm, Vite, Postman, VS Code
+- **Languages:** Python, JavaScript, SQL
+- **Frontend:** HTML5, CSS3, React.js, Bootstrap, Responsive Design
+- **Backend:** Django, Django REST Framework, Node.js, Express.js, FastAPI, REST APIs, JWT
+- **AI and Data:** Generative AI, Gemini API, LangChain, Retrieval-Augmented Generation (RAG), NumPy, Pandas
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, GitHub, Postman, VS Code, npm
+- **Core Concepts:** Object-Oriented Programming, Data Structures and Algorithms, API Integration, Form Validation
+
+## Internship Experience
+
+### Software Development Intern | Saiket Systems
+**Internship project portfolio | [Month Year - Month Year]**
+
+- Completed six practical development tasks covering responsive UI development, React fundamentals, Node.js, Express, REST API design, SQL, PostgreSQL, and full-stack integration.
+- Built and published a responsive portfolio website and an e-commerce storefront using HTML, CSS, JavaScript, and Bootstrap.
+- Developed a React task manager with add, edit, delete, completion, filtering, controlled inputs, and state management.
+- Created CRUD REST APIs for user management and implemented validation, JSON responses, error handling, and Postman-ready endpoint documentation.
+- Integrated PostgreSQL with Express using relational schemas, constraints, timestamps, and parameterized SQL queries.
+- Built a full-stack user management system with a responsive frontend and backend CRUD operations for adding, viewing, updating, and deleting profiles.
+- Used Git and GitHub to organize, commit, and publish the internship project portfolio.
 
 ## Projects
 
-### Full-Stack User Management System
-**Node.js | Express | PostgreSQL | JavaScript | HTML | CSS**
+### Tomato - Full-Stack Food Ordering Platform with AI Support
+**React.js, Node.js, Express.js, MongoDB, Context API, JWT, Stripe, Google Gemini API**
 
-- Built a responsive user management interface for adding, viewing, editing, and deleting user profiles.
-- Connected an Express REST API to PostgreSQL with parameterized SQL queries for safe data access.
-- Added client-side form validation, API error states, responsive layouts, and profile management actions.
-- Documented database setup, environment configuration, and API usage for local development.
+- Developed a responsive food-ordering platform with authentication, menu browsing, cart management, checkout, and order tracking.
+- Built reusable React components and used Context API for centralized cart and authentication state management.
+- Implemented REST APIs, JWT-based authentication, MongoDB persistence, and Stripe checkout integration.
+- Integrated a Gemini-powered support chatbot with conversational history, live menu context, and authenticated order-status assistance.
+- Added input validation, API rate limiting, automatic retries, and error handling for reliable AI-assisted workflows.
 
-### REST API and Database Integration
-**Node.js | Express | PostgreSQL | SQL | Postman**
+### Atmos - AI Weather and Outing Planner
+**Python, Django, JavaScript, LangChain, Gemini API, Open-Meteo, OpenStreetMap**
 
-- Created CRUD endpoints for a User entity with `name`, `email`, and `age` fields.
-- Implemented input validation, duplicate-email handling, HTTP status codes, and JSON responses.
-- Designed a PostgreSQL schema with primary keys, unique constraints, validation checks, and timestamps.
-- Prepared endpoint documentation for testing with Postman.
-
-### React Task Manager
-**React | Vite | JavaScript | CSS**
-
-- Developed a task manager supporting task creation, editing, deletion, completion, and filtering.
-- Used React state, controlled inputs, conditional rendering, and list rendering to build the interface.
-- Added a responsive visual design focused on clear task status and efficient interaction.
-
-### Responsive Portfolio and E-Commerce Storefront
-**HTML | CSS | JavaScript | Bootstrap**
-
-- Built a responsive portfolio with project placeholders, navigation, responsive sections, and validated contact form states.
-- Built an e-commerce landing page with product filtering, shopping bag count, and newsletter validation.
-- Used semantic HTML, responsive layouts, CSS variables, accessible labels, and mobile-first styling.
+- Built a responsive weather application with location search, browser geolocation, hourly forecasts, and seven-day forecasts.
+- Implemented a LangChain and Gemini RAG assistant that generates answers grounded in retrieved weather data.
+- Developed an activity planner that ranks suitable time slots using temperature, rainfall, and wind forecasts.
+- Integrated OpenStreetMap venue discovery and routing with walking, cycling, and driving estimates.
+- Added editable itineraries, budget tracking, shareable plans, calendar exports, API caching, input validation, and automated tests.
 
 ## Education
 
-**[Degree or Diploma Name]**  
-[College / University Name], [City] | [Start Year] - [End Year]
+### Master of Computer Applications (MCA)
+**Balasore College of Engineering and Technology** | September 2023 - August 2025
 
-## Internship / Training
-
-**Software Development Intern**  
-[Organization Name] | [Month Year] - [Month Year]
-
-- Completed hands-on tasks across frontend development, React, Node.js, Express, REST APIs, SQL, and full-stack integration.
-- Used Git and GitHub to organize, commit, and publish project work.
-- Practiced API testing, responsive design, validation, documentation, and local project setup.
+### Bachelor of Science in Physics (B.Sc.)
+**FM University** | July 2020 - May 2023
 
 ## Certifications
 
-- [Certification Name] - [Issuing Organization], [Year]
-- [Course Name] - [Platform], [Year]
+- Python Full Stack Development - JSpiders, Bangalore
+- Artificial Intelligence - NPTEL, IIT Kharagpur
+- Cloud Computing - NPTEL, IIT Kharagpur
+- Internet of Things - NPTEL, IIT Kharagpur
+- Management Information Systems (MIS) - NPTEL, IIT Kharagpur
 
-## Strengths
+## Interests
 
-Problem solving | Fast learner | Attention to detail | Team collaboration | Clear documentation
+Painting | Reading books
 
-## Resume Checklist Before Applying
+## Application Notes
 
-- Replace every bracketed placeholder with accurate information.
-- Add portfolio, LinkedIn, and GitHub URLs that work.
-- Add 1-2 measurable facts where truthful, such as number of endpoints or supported features.
-- Keep the final resume to one page and export it as `YourName_Resume.pdf`.
-- Proofread dates, email address, links, and technology names before submitting.
+- Replace `[Month Year - Month Year]` with the exact Saiket Systems internship dates.
+- Export this file to PDF as `Rimjhim_Parhi_Resume.pdf` before applying.
+- Keep the resume to one or two pages and verify every project link before submission.
